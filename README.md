@@ -1,49 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6D28D9,50:8B5CF6,100:4F46E5&text=Bubblez360&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20IT%20Support%20%C2%B7%20Generative%20Art&descSize=18&descAlignY=58&descColor=e9d5ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6D28D9,50:8B5CF6,100:4F46E5&text=Bubblez360&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-assisted%20Full-Stack%20Developer%20%C2%B7%20IT%20Support%20%C2%B7%20Generative%20Art&descSize=18&descAlignY=58&descColor=e9d5ff" alt="Bubblez360 banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=950&lines=I+build+software+that+solves+real+problems;Full-Stack+Developer+(PHP+%2F+Vue+%2F+React);IT+Support+%26+Hardware+Troubleshooter;Generative+art+%26+3D+in+Blender;Always+shipping%2C+always+learning)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=950&lines=I+build+software+with+AI+as+my+pair+programmer;I+decide+what+to+build%2C+then+review%2C+test+and+ship+it;Full-stack%3A+PHP+%C2%B7+React+%C2%B7+Supabase;IT+support%2C+PC+builds+%26+Blender+on+the+side)]
 
 <br>
 
 ![Degree](https://img.shields.io/badge/BSIT-Graduate-6D28D9?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Zamboanga_City-PH-4F46E5?style=for-the-badge)
 ![OpenToWork](https://img.shields.io/badge/Open_to-Opportunities-8B5CF6?style=for-the-badge)
+![Workflow](https://img.shields.io/badge/Workflow-AI--assisted-6D28D9?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/depamaylo-angelo-9396624003/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:depamaylo.angelo360@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Bubblez360">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://ko-fi.com/bubzwot">
-<img src="https://img.shields.io/badge/Ko--fi-Support_me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+<img src="https://img.shields.io/badge/Ko--fi-Support_me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Bubblez360&style=for-the-badge&color=6D28D9&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Bubblez360&style=for-the-badge&color=6D28D9&label=Profile+Views" alt="Profile views" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-43e1-8c33-d96f9e43c027.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
 
 ## 👋 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="" />
 
-I'm **Deps**, a BSIT graduate (ZPPSU, 2026), full-stack developer and IT enthusiast from Zamboanga City, Philippines. I like turning messy, manual business processes into software people actually want to use: recruitment dashboards, enrollment systems, POS apps, and database-driven platforms.
+I'm **Deps**, a BSIT graduate (ZPPSU, 2026) and full-stack developer from Zamboanga City, Philippines.
+
+I build with **AI as my pair programmer**. I decide what to build and why, the AI helps me write and refactor the code, and I review, run and test everything before it ships. I like turning messy, manual business processes into software people actually want to use: recruitment dashboards, enrollment systems, POS apps, and database-driven platforms.
 
 - 🎯 Currently building **business & recruitment systems**
+- 🤖 Daily tools: **AI coding assistants (Claude Code)**, plus prompt engineering to get better results from them
 - 🛒 Shipped **TindaPOS**, an offline-first POS for sari-sari stores, and **RigUninstaller**, a free Windows uninstaller
-- 🧠 Leveling up on **advanced React, Laravel, and cybersecurity**
-- 🛠️⚙️ I also build PCs, troubleshoot hardware, and run a little **freelance repair** on the side
+- 🛠️ I also build PCs, troubleshoot hardware, and take a little **freelance repair** on the side
 - 🎨 For fun: **generative art & 3D modeling in Blender** (you'll find me as Bubblez360)
-- 🤖 Ask me about **PHP MVC, Vue/React state management, or custom UI components**
 
 **Open to:** Full-Stack / Junior SWE roles · IT & Technical Support · Freelance web projects
 
 <br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
+
+## 🤖 How I Build With AI
+
+I'm open about it: most of my recent projects are built with AI assistance. What makes that work is the loop, not the tool.
+
+```mermaid
+flowchart LR
+    A["💡 Real problem<br/>(a store, a school, an HR team)"] --> B["📝 I write the spec<br/>and make the decisions"]
+    B --> C["🤖 AI drafts the code"]
+    C --> D["🔍 I read it,<br/>run it, break it"]
+    D --> E{"Tests and<br/>real use pass?"}
+    E -- "no" --> C
+    E -- "yes" --> F["🚀 Ship it"]
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**What I own**
+
+- What gets built, for whom, and what is left out
+- Architecture and data-model decisions
+- Reading and reviewing every change
+- Testing and edge cases (RigUninstaller has **840+** automated tests)
+- UI polish: modals, dropdowns, dark/light themes
+- Tracing a bug to its root cause, not patching the symptom
+
+</td>
+<td width="50%" valign="top">
+
+**What AI helps with**
+
+- First drafts and boilerplate
+- Refactors and repetitive edits
+- Writing tests and docs
+- Explaining unfamiliar code and libraries
+- Suggesting fixes I then verify
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
 
@@ -53,7 +96,7 @@ I'm **Deps**, a BSIT graduate (ZPPSU, 2026), full-stack developer and IT enthusi
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,mysql,cs" />
 
 **Frontend**
 
@@ -61,11 +104,13 @@ I'm **Deps**, a BSIT graduate (ZPPSU, 2026), full-stack developer and IT enthusi
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=php,laravel,dotnet,mysql,supabase,firebase" />
 
 **Tools & Creative**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender" />
+
+![Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -73,7 +118,7 @@ I'm **Deps**, a BSIT graduate (ZPPSU, 2026), full-stack developer and IT enthusi
 >
 > **Also:** REST APIs · prompt engineering & AI-assisted development · Canva · Cisco networking basics · OBS Studio & Streamlabs
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
 
 ## 🏆 Featured Projects
 
@@ -104,9 +149,10 @@ Removes programs, finds the leftovers, warns before you remove drivers or runtim
 
 </td>
 </tr>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 👨‍💼‍ Upstaf
+### 👨‍💼 Upstaff
 **Recruitment / HR System**
 
 Applicant dashboard + core HR flows: role-based auth, leave requests with credit deduction, document upload/preview, and email notifications.
@@ -125,7 +171,7 @@ Enrollment automation that cut manual paperwork and sped up record retrieval, wi
 
 `PHP` `MySQL`
 
-[**🔗 View Repo**](https://github.com/Bubblez360/enroll)
+[**🔗 Frontend**](https://github.com/Bubblez360/enrollment-frontend) · [**🔗 Backend**](https://github.com/Bubblez360/enrollment-back1-)
 
 </td>
 </tr>
@@ -135,7 +181,7 @@ Enrollment automation that cut manual paperwork and sped up record retrieval, wi
 ### ☕ Coffee POS
 **Point-of-Sale System**
 
-POS for a small coffee business – transaction processing, user auth, and a streamlined cashier flow.
+POS for a small coffee business: transaction processing, user auth, and a streamlined cashier flow.
 
 `PHP` `JavaScript` `HTML` `CSS`
 
@@ -157,6 +203,8 @@ A gallery site for my generative art and characters, with a community wall featu
 </tr>
 </table>
 
+<sub>Most of my recent projects are built with AI assistance. I write the specs, review the code and own the testing.</sub>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
 
 ## 💼 Experience
@@ -170,7 +218,7 @@ A gallery site for my generative art and characters, with a community wall featu
 - Assisted in event production and media operations
 - Designed promotional assets in Canva and Figma
 
-**🖥️⚙️ Administrative Intern – ZPPSU Senior High School, Zamboanga** · *May – July 2022*
+**🖥️ Administrative Intern – ZPPSU Senior High School, Zamboanga** · *May – July 2022*
 - Digitized and organized student enrollment records
 - Improved data-retrieval processes and maintained filing systems
 
@@ -181,34 +229,19 @@ A gallery site for my generative art and characters, with a community wall featu
 **BS Information Technology – Zamboanga Peninsula Polytechnic State University (ZPPSU)** · *2026*  
 **Cisco Networking Basics** · *2024*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
-
-## 🤝 How I Work
-
-I lean on AI-assisted development to ship faster, but the engineering calls are mine, I trace bugs to root cause, prefer custom components over fragile defaults, and obsess a little over UI polish (modals, dropdowns, carousels, dark/light theming).
-
 ![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
 
-## 📊 GitHub Stats
+## 🐍 Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bubblez360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubblez360&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bubblez360&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-trophies.vercel.app/?username=Bubblez360&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Bubblez360/Bubblez360/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bubblez360/Bubblez360/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bubblez360/Bubblez360/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bubblez360/Bubblez360/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -216,7 +249,7 @@ I lean on AI-assisted development to ship faster, but the engineering calls are 
 
 ## 🎯 Beyond Code
 
-When I'm not shipping, I'm building PCs, breaking down hardware problems, or making generative art and 3D models in Blender. Same instinct, different canvas – figure out how the thing works, then make it better.
+When I'm not shipping, I'm building PCs, breaking down hardware problems, or making generative art and 3D models in Blender. Same instinct, different canvas: figure out how the thing works, then make it better.
 
 <div align="center">
 
@@ -224,6 +257,4 @@ When I'm not shipping, I'm building PCs, breaking down hardware problems, or mak
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:8B5CF6,100:4F46E5" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:8B5CF6,100:4F46E5" alt="" />
