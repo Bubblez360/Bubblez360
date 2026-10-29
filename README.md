@@ -7,7 +7,7 @@
 <br>
 
 ![Degree](https://img.shields.io/badge/BSIT-Graduate-6D28D9?style=for-the-badge)
-![Location](https://img.shields.io/badge/Zamboanaga_City-PH-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/Zamboanga_City-PH-4F46E5?style=for-the-badge)
 ![OpenToWork](https://img.shields.io/badge/Open_to-Opportunities-8B5CF6?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/depamaylo-angelo-9396624003/">
@@ -19,6 +19,9 @@
 <a href="https://github.com/Bubblez360">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://ko-fi.com/bubzwot">
+<img src="https://img.shields.io/badge/Ko--fi-Support_me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=Bubblez360&style=for-the-badge&color=6D28D9&label=Profile+Views" />
 
 </div>
@@ -29,9 +32,10 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
 
-I'm **Deps**, a full-stack developer and IT enthusiast from the Philippines. I like turning messy, manual business processes into software people actually want to use: recruitment dashboards, enrollment systems, POS apps, and database-driven platforms.
+I'm **Deps**, a BSIT graduate (ZPPSU, 2026), full-stack developer and IT enthusiast from Zamboanga City, Philippines. I like turning messy, manual business processes into software people actually want to use: recruitment dashboards, enrollment systems, POS apps, and database-driven platforms.
 
 - 🎯 Currently building **business & recruitment systems**
+- 🛒 Shipped **TindaPOS**, an offline-first POS for sari-sari stores, and **RigUninstaller**, a free Windows uninstaller
 - 🧠 Leveling up on **advanced React, Laravel, and cybersecurity**
 - 🛠️⚙️ I also build PCs, troubleshoot hardware, and run a little **freelance repair** on the side
 - 🎨 For fun: **generative art & 3D modeling in Blender** (you'll find me as Bubblez360)
@@ -65,7 +69,9 @@ I'm **Deps**, a full-stack developer and IT enthusiast from the Philippines. I l
 
 </div>
 
-> **IT & Hardware:** PC diagnostics · assembly & upgrades · troubleshooting · OS installation · workstation & peripheral setup · system maintenance
+> **IT & Hardware:** PC diagnostics · assembly & upgrades · troubleshooting · OS installation · workstation & peripheral setup · system maintenance · basic laptop servicing
+>
+> **Also:** REST APIs · prompt engineering & AI-assisted development · Canva · Cisco networking basics · OBS Studio & Streamlabs
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header"/>
 
@@ -74,6 +80,31 @@ I'm **Deps**, a full-stack developer and IT enthusiast from the Philippines. I l
 <table>
 <tr>
 <td width="50%" valign="top">
+
+### 🛒 TindaPOS
+**Offline-first POS for sari-sari stores**
+
+Fast, thumb-friendly point of sale for a Filipino tindahan: cash and GCash sales, stock tracking, shift reports, backup and restore, and a Taglish interface. Installs like an app and keeps working without internet.
+
+`React` `Zustand` `IndexedDB` `Supabase` `PWA`
+
+[**🔗 View Repo**](https://github.com/Bubblez360/SimplePosSystem) · [**▶ Live demo**](https://bubblez360.github.io/SimplePosSystem/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧹 RigUninstaller
+**Windows uninstaller and cleaner**
+
+Removes programs, finds the leftovers, warns before you remove drivers or runtimes, cleans temp files and caches, and can undo with backups and restore points. 840+ automated tests.
+
+`C#` `.NET 8` `WPF` `xUnit`
+
+[**🔗 View Repo**](https://github.com/Bubblez360/RigUninstaller) · [**⬇ Download**](https://github.com/Bubblez360/RigUninstaller/releases/latest)
+
+</td>
+</tr>
+<tr><td width="50%" valign="top">
 
 ### 👨‍💼‍ Upstaf
 **Recruitment / HR System**
@@ -130,14 +161,25 @@ A gallery site for my generative art and characters, with a community wall featu
 
 ## 💼 Experience
 
-**🧑‍💻 Assistant Intern – Radio iFM Music & News Zamboanaga** · *May 2024 – July 2024*
+**💼 Upstaff Intern – Upstaff Recruitment Management System** · *March – June 2026*
+- Built a centralized applicant-information and assessment dashboard with API integration and document handling
+- Shipped HR flows: role-based auth, leave requests with credit deduction, document upload/preview and email notifications
+
+**🧑‍💻 Broadcast & Creative Intern – Radyo iFM Music & News Zamboanga** · *May – July 2023*
 - Ran live-stream broadcasts with OBS Studio and Streamlabs
 - Assisted in event production and media operations
 - Designed promotional assets in Canva and Figma
 
-**🖥️⚙️ Administrative Assistant Intern – ZPPSU Senior High School** · *2024*
+**🖥️⚙️ Administrative Intern – ZPPSU Senior High School, Zamboanga** · *May – July 2022*
 - Digitized and organized student enrollment records
 - Improved data-retrieval processes and maintained filing systems
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
+
+## 🎓 Education
+
+**BS Information Technology – Zamboanga Peninsula Polytechnic State University (ZPPSU)** · *2026*  
+**Cisco Networking Basics** · *2024*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6D28D9,50:8B5CF6,100:4F46E5&section=header" />
 
